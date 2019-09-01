@@ -7,7 +7,7 @@ ruby '2.5.1'
 gem 'rails', '~> 5.2.1', '>= 5.2.1.1'
 
 # Use SCSS for stylesheets
-gem 'bootstrap-sass', '~> 3.3.7'
+gem 'bootstrap-sass', '~> 3.4.1'
 # Use jQuery gem
 gem 'jquery-rails'
 
